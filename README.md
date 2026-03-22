@@ -22,6 +22,16 @@ neighbourhoods using open data from Edmonton Police Service and Statistics Canad
 - Top 20 neighbourhoods by crime rate per 1,000 residents
 - Edmonton map coloured by k-means crime cluster
 
+## Maps
+
+![Crime Type Map](results/crime_type_map.png)
+
+![Top 20 by Crime Count](results/top20_crime_neighbourhoods.png)
+
+![Top 20 by Crime Rate](results/top20_crime_rate.png)
+
+![Crime Clusters](results/crime_clusters_map.png)
+
 ## Methodology
 1. Loaded and cleaned 79,452 crime incidents from Edmonton Police Service
 2. Resolved coordinate system mismatches and validated data quality
